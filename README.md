@@ -1,6 +1,6 @@
 # Emulator
 32-bit CPU emulator
-Example 'assembler' codes \*.i and compiled bytecode \*bc can be found in asm folder
+Example 'assembler' codes \*.i and compiled bytecode \*.bc can be found in asm folder
 emulator file is binary ELF executable
 Run as:
 ./emulator run <bytecode_file>
