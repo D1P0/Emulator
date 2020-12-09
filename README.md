@@ -5,3 +5,4 @@ Run as:
 ./emulator run <bytecode_file>
 or
 ./emulator trace <bytecode_file>
+
